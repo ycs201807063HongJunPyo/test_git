@@ -21,7 +21,7 @@ namespace project_1
             Console.WriteLine((52).ToString().GetType());
             Console.WriteLine((52.273).ToString());
             Console.WriteLine(('A').ToString());
-
+            ㄴ
             //소숫점 제거
             Console.WriteLine();
             double number = 52.273103;
@@ -36,6 +36,25 @@ namespace project_1
             Console.WriteLine("52" + 273);  // 52273
             Console.WriteLine("52" + "273");    // 52273
             Console.WriteLine(52 + 'A');    // 117
+
+
+            //깃허브 테스트
+            //깃허브 테스트//깃허브 테스트
+            //깃허브 테스트//깃허브 테스트
+            //깃허브 테스트//깃허브 테스트
+            //깃허브 테스트//깃허브 테스트
+
+
+            /*
+             * 테스트
+             * 테스트
+             * 테스트
+             * 테스트
+             * 테스트
+             * 테스트
+             * 테스트
+             * 테스트
+             */
         }
     }
 }
