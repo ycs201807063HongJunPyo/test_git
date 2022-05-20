@@ -1,0 +1,16 @@
+F:\edu\oop\c#\4th\sln_4th\project_2\bin\Debug\net5.0\project_2.exe
+F:\edu\oop\c#\4th\sln_4th\project_2\bin\Debug\net5.0\project_2.deps.json
+F:\edu\oop\c#\4th\sln_4th\project_2\bin\Debug\net5.0\project_2.runtimeconfig.json
+F:\edu\oop\c#\4th\sln_4th\project_2\bin\Debug\net5.0\project_2.runtimeconfig.dev.json
+F:\edu\oop\c#\4th\sln_4th\project_2\bin\Debug\net5.0\project_2.dll
+F:\edu\oop\c#\4th\sln_4th\project_2\bin\Debug\net5.0\ref\project_2.dll
+F:\edu\oop\c#\4th\sln_4th\project_2\bin\Debug\net5.0\project_2.pdb
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.csproj.AssemblyReference.cache
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.AssemblyInfoInputs.cache
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.AssemblyInfo.cs
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.csproj.CoreCompileInputs.cache
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.dll
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\ref\project_2.dll
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.pdb
+F:\edu\oop\c#\4th\sln_4th\project_2\obj\Debug\net5.0\project_2.genruntimeconfig.cache
